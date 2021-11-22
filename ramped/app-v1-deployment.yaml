@@ -35,7 +35,7 @@ spec:
           containerPort: 8086
         env:
         - name: VERSION
-          value: v2.1.10-test
+          value: v2.1.10
         livenessProbe:
           httpGet:
             path: /live
