@@ -15,7 +15,7 @@ spec:
     metadata:
       labels:
         app: my-app
-        version: v1.0.0
+        version: v2.1.10-test
       annotations:
         prometheus.io/scrape: "true"
         prometheus.io/port: "9101"
