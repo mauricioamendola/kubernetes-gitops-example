@@ -10,5 +10,5 @@ spec:
     port: 80
     targetPort: http
   selector:
-    app: my-app
+    app: my-app-v2
     version: v2.0.0

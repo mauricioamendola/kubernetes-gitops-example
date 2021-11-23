@@ -9,7 +9,7 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: my-app
+      app: my-app-v2
       version: v2.0.0
   template:
     metadata:
