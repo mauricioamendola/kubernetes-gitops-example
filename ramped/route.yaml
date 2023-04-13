@@ -6,7 +6,7 @@ metadata:
   labels:
     app: my-app
 spec:
-  host: example.apps.workshop-netlabs.workshop.netlabs.com.uy
+  host: ramped-app.apps.aws-demo-ocp.workshop.netlabs.com.uy
   to:
     kind: Service
     name: my-app
